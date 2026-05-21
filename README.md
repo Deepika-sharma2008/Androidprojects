@@ -35,7 +35,7 @@
 <img width="250" height="480" alt="image" src="https://github.com/user-attachments/assets/0739f574-6f6e-4933-849c-b486e4707d17" />
 
 
-# OUTPUT 6
+**OUTPUT 6**
 
 
 <img width="250" height="480" alt="image" src="https://github.com/user-attachments/assets/8ccc86dc-c664-44e6-8079-d3d48e0c30cb" />
